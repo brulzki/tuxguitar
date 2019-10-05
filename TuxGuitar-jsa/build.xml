@@ -16,6 +16,7 @@
 		<pathelement location="${path.tuxguitar-gm-utils}"/>
 		<pathelement location="${path.tuxguitar}"/>
 		<pathelement location="${path.tuxguitar-ui-toolkit}"/>
+		<pathelement location="${path.tuxguitar-editor-utils}"/>
 	</path >
 	
 	<target name="init" depends="clean">
